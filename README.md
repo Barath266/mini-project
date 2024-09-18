@@ -1,5 +1,3 @@
-# Welcome to GitHub Desktop!
-
-This is your README. READMEs are where you can communicate what your project is and how to use it.
-
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+This is mini project for machine learning.
+And in this project we have take two dataset one is cvd and other framingham both are csv dataset.
+there will be a leazy classifier model is used for this project using of python language. 
